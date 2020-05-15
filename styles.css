@@ -1,7 +1,11 @@
 .nav-link {
-    color: pink !important;
+    color: #8989ff !important;
 }
 
 #personal-image    {
     border: solid #17a2b852 5px;
+}
+
+.navbar-brand {
+    color:#8989ff  ;
 }
