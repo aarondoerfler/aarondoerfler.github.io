@@ -18,7 +18,7 @@ $(document).ready(function(){
     });
     
     setTimeout( function() {
-        $('#name-title').html("<h1>Aaron Doerfler 🔥</h1>");
+        $('#name-title').html("<h1>Aaron Doerfler🌎</h1>");
         }, 2000 );
         
     
